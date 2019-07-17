@@ -52,6 +52,9 @@ This is your chance to talk about the prompt! Please provide these answers on yo
 - What did you have to research or lookup while working on this? 
     I had to read the Material-UI documentation, as well as some help with the endpoint API using Axios. I also tried to deploy the web application using gh-pages, but it doesn't stick to the intended layout as it messes up the color and spacing. It is recommended to run the local version by cloning and doing npm install and npm start to run.
 
+![Dashboard_paulo](https://i.imgur.com/kOGozOB.png)
+
+![Dashboard_collapse](https://i.imgur.com/BePSQGw.png)
 
 
 
