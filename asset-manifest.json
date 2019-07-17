@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/front-end-interview-prompt/static/css/main.71332986.chunk.css",
-    "main.js": "/front-end-interview-prompt/static/js/main.909f5731.chunk.js",
-    "main.js.map": "/front-end-interview-prompt/static/js/main.909f5731.chunk.js.map",
-    "runtime~main.js": "/front-end-interview-prompt/static/js/runtime~main.5599858e.js",
-    "runtime~main.js.map": "/front-end-interview-prompt/static/js/runtime~main.5599858e.js.map",
-    "static/js/2.29bc87af.chunk.js": "/front-end-interview-prompt/static/js/2.29bc87af.chunk.js",
-    "static/js/2.29bc87af.chunk.js.map": "/front-end-interview-prompt/static/js/2.29bc87af.chunk.js.map",
-    "index.html": "/front-end-interview-prompt/index.html",
-    "precache-manifest.b3fa070ba9d719f316072d72757e6426.js": "/front-end-interview-prompt/precache-manifest.b3fa070ba9d719f316072d72757e6426.js",
-    "service-worker.js": "/front-end-interview-prompt/service-worker.js",
-    "static/css/main.71332986.chunk.css.map": "/front-end-interview-prompt/static/css/main.71332986.chunk.css.map"
+    "main.css": "/frontend-interview-prompt/static/css/main.71332986.chunk.css",
+    "main.js": "/frontend-interview-prompt/static/js/main.fb6bdb31.chunk.js",
+    "main.js.map": "/frontend-interview-prompt/static/js/main.fb6bdb31.chunk.js.map",
+    "runtime~main.js": "/frontend-interview-prompt/static/js/runtime~main.636c0488.js",
+    "runtime~main.js.map": "/frontend-interview-prompt/static/js/runtime~main.636c0488.js.map",
+    "static/js/2.29bc87af.chunk.js": "/frontend-interview-prompt/static/js/2.29bc87af.chunk.js",
+    "static/js/2.29bc87af.chunk.js.map": "/frontend-interview-prompt/static/js/2.29bc87af.chunk.js.map",
+    "index.html": "/frontend-interview-prompt/index.html",
+    "precache-manifest.1556dc8e066784d84c2c82036c1a0fb5.js": "/frontend-interview-prompt/precache-manifest.1556dc8e066784d84c2c82036c1a0fb5.js",
+    "service-worker.js": "/frontend-interview-prompt/service-worker.js",
+    "static/css/main.71332986.chunk.css.map": "/frontend-interview-prompt/static/css/main.71332986.chunk.css.map"
   }
 }
