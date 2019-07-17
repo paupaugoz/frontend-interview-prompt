@@ -1,5 +1,5 @@
 import React from 'react';
-import NavBar from './components/navbar/navbar.js';
+import NavBar from './components/navbar/Navbar.js';
 import Footer from './components/footer/Footer.js';
 import Body from './components/body/Body.js';
 import { StylesProvider } from "@material-ui/styles";
