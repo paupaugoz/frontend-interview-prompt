@@ -1,0 +1,148 @@
+/*Header*/
+.MuiAppBar-colorPrimary {
+	background-color: var(--blue-header);
+}
+
+
+/*Nav Sliding*/
+.makeStyles-toolbarIcon-3 {
+	background-color: var(--blue-nav);
+}
+
+.makeStyles-toolbar-2 {
+	display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.MuiGrid-align-items-xs-center {
+	align-items: flex-end;
+}
+
+.MuiGrid-spacing-xs-1 > .MuiGrid-item {
+	margin-right: 8px;
+}
+
+.MuiInputBase-input {
+	width: 300px;
+}
+.MuiInput-underline:before {
+	content: none;
+}
+.MuiInput-underline:after {
+	content: none;
+}
+
+.MuiListItem-root:active {
+	background-color: white;
+
+}
+
+.MuiDrawer-paperAnchorDockedLeft {
+	border: none;
+}
+
+.MuiPaper-elevation4 {
+	box-shadow: none;
+}
+
+.MuiListItem-root.Mui-selected, .MuiListItem-root.Mui-selected:hover {
+	background-color: white;
+}
+
+.MuiIconButton-root {
+	color: white;
+}
+
+.MuiFormLabel-root {
+	color: white;
+}
+
+.makeStyles-drawerPaper-9 {
+	background-color: #29333D;
+}
+
+.MuiTypography-body1 {
+	color: #8A9BB5;
+	font-size: 0.9rem;
+}
+
+.icon-color {
+	color: #8A9BB5;
+}
+
+.icon-color-active {
+	color: var(--blue-header);
+}
+
+.margin-top {
+	margin-top: 40px;
+}
+
+.flex {
+	display: flex;
+	flex-direction: column;
+}
+.bar {
+	position: relative;
+    left: 116.4px;
+    background-color: black;
+    height: 18px;
+    width: 3.5px;
+    z-index: 500000;
+}
+
+.MuiListItemIcon {
+	align-items: flex-start;
+	justify-content: flex-end;
+}
+
+.arrow-margin {
+	margin-left: auto;
+}
+
+.icon-yellow {
+	color: yellow;
+}
+
+.icon-orange {
+	color: orange;
+}
+
+.icon-purple {
+	color: purple;
+}
+
+.picture-container {
+    margin-left: auto;
+    margin-right: 12px;
+    align-items: center;
+    height: 64px;
+    display: flex;
+}
+.img-icon {
+	height: 100%;
+	width: 50px;
+	margin-right: 12px;
+}
+
+@media screen and (max-width: 1200px) {
+	.makeStyles-drawerPaper-9 {
+		width: 72px !important;
+	}
+
+	.makeStyles-appBarShift-5 {
+		width: 95vw !important;
+		z-index: -100 !important;
+	}
+
+	.margin-top {
+		margin-top: 0px !important;
+	}
+	.MuiDrawer-paper {
+		overflow-x: hidden;
+	}
+}
+
+
+

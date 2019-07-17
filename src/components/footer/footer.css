@@ -1,0 +1,36 @@
+#footer {
+	width: 100vw;
+	padding-left: 30px;
+	display: flex;
+	flex-direction: row;
+	position: absolute;
+	bottom: 0px;
+	height: 64px;
+	margin-left: 240px;
+}
+
+.footer-wrapper {
+	display: flex;
+	flex-direction:row;
+	width: 80vw;
+
+}
+
+.footer-text {
+	color: #A7A3AC;
+	font-size: 1rem;
+	font-weight: 200;
+}
+
+.arrow-up {
+	margin-left: auto;
+	color: #A7A3AC;
+}
+
+
+@media screen and (max-width: 1200px) {
+	.footer {
+		visibility: hidden;
+	}
+}
+
