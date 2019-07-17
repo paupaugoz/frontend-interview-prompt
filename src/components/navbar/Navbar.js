@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '@material-ui/core/Button';
+
 import clsx from 'clsx';
 import { makeStyles } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
@@ -7,12 +7,9 @@ import Drawer from '@material-ui/core/Drawer';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import List from '@material-ui/core/List';
-import Typography from '@material-ui/core/Typography';
 import Divider from '@material-ui/core/Divider';
 import IconButton from '@material-ui/core/IconButton';
-import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
-import Paper from '@material-ui/core/Paper';
 import MenuIcon from '@material-ui/icons/Menu';
 import { firstListItems, secondaryListItems, thirdListItems, fourthListItems, fifthListItems } from './listItems';
 import { StylesProvider } from "@material-ui/styles";
@@ -21,6 +18,7 @@ import TextField from "@material-ui/core/TextField";
 import KeyboardArrowDown from '@material-ui/icons/KeyboardArrowDown';
 
 import './navbar.css';
+
 const drawerWidth = 240;
 
 const useStyles = makeStyles(theme => ({
@@ -103,7 +101,7 @@ const useStyles = makeStyles(theme => ({
 }));
  
 export default function NavBar() {
-   const classes = useStyles();
+  const classes = useStyles();
   const [open, setOpen] = React.useState(true);
   const handleDrawerOpen = () => {
     setOpen(true);
@@ -134,7 +132,7 @@ export default function NavBar() {
           </Grid>
           <Grid item>
           {/*/Insert HTTP Req here*/}
-            <TextField id="input-with-icon-grid" alignItems="center" label="Search..." />
+            <TextField id="input-with-icon-grid" label="Search..." />
           
           </Grid>
         </Grid>

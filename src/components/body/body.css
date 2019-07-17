@@ -1,0 +1,172 @@
+.dash-container {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	
+	
+	color: #474C58;
+	margin-top: 40px;
+}
+.dashboard-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.dashboard-heading {
+	display: flex;
+	width: 100%;
+	margin: 0px;
+	font-weight: 400;
+	font-size: 2rem;
+}
+.dash-stat {
+	margin: 0px;
+	font-size: 1rem;
+	font-weight: 200;
+	color: #A7A3AC;
+}
+
+.totals {
+	padding-right: 30px;
+	font-size: 2rem;
+}
+
+.totals-data {
+	font-size: 2.25rem;
+}
+
+.chart-container {
+	padding-top: 80px;
+	display: flex;
+	flex-direction: row;
+	background-color: white;
+	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);
+}
+
+.chart-text {
+	padding-left: 30px;
+	padding-right: 30px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding-bottom: 12px;
+}
+
+.graph-button-left {
+	margin-right: 5px;
+	background-color: #73D7A4 !important;
+	color: white;
+	font-weight: 200;
+
+}
+.graph-button-right {
+	margin-left: 0 !important;
+	background-color: transparent !important;
+	color: #A7A3AC !important;
+	font-weight: 200;
+}
+
+.chart-heading {
+	padding-right: 30px;
+}
+
+.dash-stat {
+	margin: 0px;
+	font-weight: 200;
+	color: #A7A3AC;
+}
+
+.chart-wrapper {
+	display: flex;
+	flex-direction: column;
+}
+.totals-wrapper{
+	padding-left: 30px;
+	padding-top: 30px;
+	margin-bottom: 30px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+
+ .line {
+    width: 3px;
+    color: #F2F2F2;
+    background-color: #F2F2F2;
+    border: none;
+}
+
+.stats-wrapper {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	padding-bottom: 20px;
+}
+
+/* For main container*/
+.makeStyles-content-317 {
+	padding-left: 30px;
+	width: 86vw;
+	background-color: #F1F4F8;
+}
+/* For date button/datepicker*/
+.MuiButton-contained {
+	margin-left: auto;
+	color: white;
+	font-weight: 200;
+	background-color: var(--blue-header);
+}
+.MuiButton-contained:hover {
+	margin-left: auto;
+	color: white;
+	background-color: var(--blue-nav);
+}
+.MuiButton-contained:active {
+	
+	color: white;
+	background-color: var(--blue-nav);
+}
+/*End date button*/
+
+/*For recharts*/
+.recharts-responsive-container {
+	width: 40% !important;
+}
+
+.stats-container {
+	margin-top: 40px;
+	width: 100%;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);
+}
+
+/*Breakpoint 1200, collapse charts and stay within container*/
+@media screen and (max-width: 1200px) {
+	.chart-container {
+		flex-direction: column;
+	}
+	.makeStyles-content-317 {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 94vw;
+	}
+
+	.recharts-wrapper {
+	  width: 100% !important;
+	}
+
+	.recharts-surface {
+	width: 100%;
+}
+}
+
+
+
+
+
+

@@ -14,7 +14,9 @@
     flex-direction: row;
     align-items: flex-start;
 }
+/*End nav sliding*/
 
+/*Align list items*/
 .MuiGrid-align-items-xs-center {
 	align-items: flex-end;
 }
@@ -75,6 +77,8 @@
 	color: var(--blue-header);
 }
 
+/*End list items*/
+
 .margin-top {
 	margin-top: 40px;
 }
@@ -126,6 +130,8 @@
 	margin-right: 12px;
 }
 
+
+/*Collapse navbar at 1200 breakpoint*/
 @media screen and (max-width: 1200px) {
 	.makeStyles-drawerPaper-9 {
 		width: 72px !important;
