@@ -42,6 +42,7 @@
 
 .MuiDrawer-paperAnchorDockedLeft {
 	border: none;
+	background-color: #29333D;
 }
 
 .MuiPaper-elevation4 {
@@ -62,6 +63,7 @@
 
 .makeStyles-drawerPaper-9 {
 	background-color: #29333D;
+	
 }
 
 .MuiTypography-body1 {
@@ -149,6 +151,35 @@
 		overflow-x: hidden;
 	}
 }
+
+@media screen and (max-width: 560px) {
+	.makeStyles-drawerPaper-9 {
+		margin-top: 20px;
+	}
+	
+
+}
+
+@media screen and (max-width: 1600px) {
+	.jss317 {
+		width: 80vw;
+	}
+	
+}
+
+@media screen and (max-width: 1200px) {
+	.jss317 {
+		padding-right: 80px;
+	}
+	
+
+}
+
+
+
+
+
+
 
 
 

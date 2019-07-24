@@ -80,6 +80,8 @@
 .chart-wrapper {
 	display: flex;
 	flex-direction: column;
+	flex-wrap: wrap;
+	width: 50%;
 }
 .totals-wrapper{
 	padding-left: 30px;
@@ -89,6 +91,13 @@
 	flex-direction: row;
 	align-items: center;
 	justify-content: flex-start;
+}
+
+.recharts-wrapper {
+	position: relative;
+	width: 100% !important;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 
@@ -163,6 +172,10 @@
 	.recharts-surface {
 	width: 100%;
 }
+	.chart-wrapper {
+		width: 100% !important;
+	}
+
 }
 
 

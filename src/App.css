@@ -45,7 +45,7 @@ html, body {
 
 .btn-fab {
   position: fixed;
-  top: 65px;
+  top: 90px;
   background-color: white;
   color: var(--blue-header);
   right: 0;
@@ -76,6 +76,42 @@ a {
    text-decoration:none;
    color: white;
 }
+
+.jss3 {
+  background-color: var(--blue-nav);
+}
+
+.jss317 {
+  padding-left: 30px;
+  width: 87vw;
+  padding-right: 30px;
+}
+
+
+
+@media screen and (max-width: 600px) {
+  .footer {
+    visibility: hidden;
+  }
+  
+}
+
+
+@media screen and (max-width: 1600px) {
+  .jss317 {
+    width: 80vw !important;
+  }
+  
+}
+
+@media screen and (max-width: 1200px) {
+  .jss317 {
+    padding-right: 80px !important;
+  }
+  
+
+}
+
 
 
 
