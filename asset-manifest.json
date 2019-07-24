@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-interview-prompt/static/css/main.2b9d2115.chunk.css",
+    "main.css": "/frontend-interview-prompt/static/css/main.aa349de7.chunk.css",
     "main.js": "/frontend-interview-prompt/static/js/main.fb6bdb31.chunk.js",
     "main.js.map": "/frontend-interview-prompt/static/js/main.fb6bdb31.chunk.js.map",
     "runtime~main.js": "/frontend-interview-prompt/static/js/runtime~main.636c0488.js",
@@ -8,8 +8,8 @@
     "static/js/2.29bc87af.chunk.js": "/frontend-interview-prompt/static/js/2.29bc87af.chunk.js",
     "static/js/2.29bc87af.chunk.js.map": "/frontend-interview-prompt/static/js/2.29bc87af.chunk.js.map",
     "index.html": "/frontend-interview-prompt/index.html",
-    "precache-manifest.486e1bd6f986bbcf264216ea613e3434.js": "/frontend-interview-prompt/precache-manifest.486e1bd6f986bbcf264216ea613e3434.js",
+    "precache-manifest.6807519cc05c5d027b4014a9732ddfe8.js": "/frontend-interview-prompt/precache-manifest.6807519cc05c5d027b4014a9732ddfe8.js",
     "service-worker.js": "/frontend-interview-prompt/service-worker.js",
-    "static/css/main.2b9d2115.chunk.css.map": "/frontend-interview-prompt/static/css/main.2b9d2115.chunk.css.map"
+    "static/css/main.aa349de7.chunk.css.map": "/frontend-interview-prompt/static/css/main.aa349de7.chunk.css.map"
   }
 }
