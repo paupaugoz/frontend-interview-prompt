@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/frontend-interview-prompt/static/css/main.517421a0.chunk.css",
-    "main.js": "/frontend-interview-prompt/static/js/main.fb6bdb31.chunk.js",
-    "main.js.map": "/frontend-interview-prompt/static/js/main.fb6bdb31.chunk.js.map",
-    "runtime~main.js": "/frontend-interview-prompt/static/js/runtime~main.636c0488.js",
-    "runtime~main.js.map": "/frontend-interview-prompt/static/js/runtime~main.636c0488.js.map",
-    "static/js/2.29bc87af.chunk.js": "/frontend-interview-prompt/static/js/2.29bc87af.chunk.js",
-    "static/js/2.29bc87af.chunk.js.map": "/frontend-interview-prompt/static/js/2.29bc87af.chunk.js.map",
-    "index.html": "/frontend-interview-prompt/index.html",
-    "precache-manifest.330db339673706fcae987972e6aef9c7.js": "/frontend-interview-prompt/precache-manifest.330db339673706fcae987972e6aef9c7.js",
-    "service-worker.js": "/frontend-interview-prompt/service-worker.js",
-    "static/css/main.517421a0.chunk.css.map": "/frontend-interview-prompt/static/css/main.517421a0.chunk.css.map"
+    "main.css": "/front-end-interview-prompt/static/css/main.a524ced5.chunk.css",
+    "main.js": "/front-end-interview-prompt/static/js/main.909f5731.chunk.js",
+    "main.js.map": "/front-end-interview-prompt/static/js/main.909f5731.chunk.js.map",
+    "runtime~main.js": "/front-end-interview-prompt/static/js/runtime~main.5599858e.js",
+    "runtime~main.js.map": "/front-end-interview-prompt/static/js/runtime~main.5599858e.js.map",
+    "static/js/2.29bc87af.chunk.js": "/front-end-interview-prompt/static/js/2.29bc87af.chunk.js",
+    "static/js/2.29bc87af.chunk.js.map": "/front-end-interview-prompt/static/js/2.29bc87af.chunk.js.map",
+    "index.html": "/front-end-interview-prompt/index.html",
+    "precache-manifest.bd5cd630cfc6e90396036e42d9adaf9e.js": "/front-end-interview-prompt/precache-manifest.bd5cd630cfc6e90396036e42d9adaf9e.js",
+    "service-worker.js": "/front-end-interview-prompt/service-worker.js",
+    "static/css/main.a524ced5.chunk.css.map": "/front-end-interview-prompt/static/css/main.a524ced5.chunk.css.map"
   }
 }
