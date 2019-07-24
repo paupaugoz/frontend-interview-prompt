@@ -135,7 +135,7 @@
 
 /*Collapse navbar at 1200 breakpoint*/
 @media screen and (max-width: 1200px) {
-	.makeStyles-drawerPaper-9 {
+	.makeStyles-drawerPaper-9, {
 		width: 72px !important;
 	}
 
@@ -152,28 +152,59 @@
 	}
 }
 
+@media screen and (max-width: 780px) {
+	.jss9 {
+		width: 72px !important;
+	}
+	.MuiIconButton-label {
+		visibility: hidden;
+	}
+	.jss5 {
+		width: 100%;
+	}
+
+	.jss317 { 
+		padding-right: 30px !important ;
+
+	 }
+
+	
+
+}
+
 @media screen and (max-width: 560px) {
 	.makeStyles-drawerPaper-9 {
 		margin-top: 20px;
 	}
-	
-
-}
-
-@media screen and (max-width: 1600px) {
-	.jss317 {
-		width: 80vw;
+	.MuiMenuItem-root {
+		min-height: 0 !important;
 	}
-	
-}
-
-@media screen and (max-width: 1200px) {
-	.jss317 {
-		padding-right: 80px;
+	.jss9 {
+		margin-top: 20px;
 	}
+	.jss317 {
+		padding-right: 0 !important;
+		padding-left: 0 !important;
+		width: 85vw !important;
+	}
+	.chart-text {
+		width: 85%;
+	}
+	.chart-container {
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+	}
+	.dash-container {
+		flex-wrap: wrap;
+	}
+
 	
 
 }
+
+
+
 
 
 

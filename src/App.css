@@ -112,6 +112,61 @@ a {
 
 }
 
+@media screen and (max-width: 560px) {
+  .makeStyles-drawerPaper-9 {
+    margin-top: 20px;
+  }
+  .MuiMenuItem-root {
+    min-height: 0 !important;
+  }
+  .jss9 {
+    margin-top: 20px;
+  }
+  .jss317 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    width: 85vw !important;
+  }
+  .chart-text {
+    width: 85%;
+  }
+  .chart-container {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .dash-container {
+    flex-wrap: wrap;
+  }
+}
+  
+
+  @media screen and (max-width: 560px) {
+  
+  .jss317 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    width: 80vw !important;
+  }
+ 
+  .chart-heading {
+    padding-right: 0 !important;
+  }
+  .chart-text {
+    padding-left: 0 !important;
+    flex-wrap: wrap;
+  }
+  .line {
+    visibility: hidden;
+    flex-wrap: wrap;
+  }
+  .stats-wrapper {
+    flex-wrap: wrap;
+  }
+  
+
+}
+
 
 
 
